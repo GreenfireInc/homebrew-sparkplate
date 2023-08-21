@@ -4,7 +4,7 @@ cask "sparkplate" do
 
   url "https://github.com/GreenfireInc/homebrew-sparkplate/releases/download/v#{version}/Sparkplate.zip"
   name "sparkplate"
-  desc "Sparkplate features base components and methods for interfacing with various APIs. Built in is a test page for resolving human readable domains to crypto addresses."
+  desc "Features a test page for resolving human readable domains to crypto addresses."
   homepage "https://github.com/GreenfireInc/Sparkplate.Vue"
 
   app "Sparkplate.app"
