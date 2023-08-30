@@ -10,13 +10,12 @@ cask "sparkplate" do
   app "Sparkplate.app"
 
   zap trash: [
-  "~/Library/Application Support/sparkplate",
-  "~/Library/Preferences/com.sparkplate.app.plist",
-  "~/Library/Preferences/io.greenfire.sparkplate-.plist",
-  "~/Library/Preferences/io.greenfire.sparkplate.helper.plist",
-  "~/Library/Preferences/io.greenfire.sparkplate.plist",
-  "~/Library/Saved Application State/com.sparkplate.app.savedState",
-  "~/Library/Saved Application State/io.greenfire.sparkplate.savedState",
+    "~/Library/Application Support/sparkplate",
+    "~/Library/Preferences/com.sparkplate.app.plist",
+    "~/Library/Preferences/io.greenfire.sparkplate-.plist",
+    "~/Library/Preferences/io.greenfire.sparkplate.helper.plist",
+    "~/Library/Preferences/io.greenfire.sparkplate.plist",
+    "~/Library/Saved Application State/com.sparkplate.app.savedState",
+    "~/Library/Saved Application State/io.greenfire.sparkplate.savedState",
   ]
-
 end
