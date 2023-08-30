@@ -17,6 +17,6 @@ cask "sparkplate" do
   "~/Library/Preferences/io.greenfire.sparkplate.plist",
   "~/Library/Saved Application State/com.sparkplate.app.savedState",
   "~/Library/Saved Application State/io.greenfire.sparkplate.savedState",
-]
+  ]
 
 end
